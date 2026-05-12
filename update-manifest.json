@@ -1,10 +1,7 @@
-﻿{
+{
   "version": "0.1.2",
   "required": false,
   "downloadUrl": "https://github.com/VeriduxInteractive/gdg-client-public/releases/download/v0.1.2/GDGClient.zip",
   "sha256": "1e5ea1f4ffe0ba859bc501959ad9add2335f403a38db11615306af63fb147197",
   "notes": "Adds the startup update prompt and keeps the death-count HUD fallback."
 }
-
-
-
