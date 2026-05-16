@@ -16,7 +16,7 @@ If an older local `GDGStatsTracker` folder exists in your `Mods` folder, remove 
 
 - Version: `0.2.2`
 - Download: https://github.com/VeriduxInteractive/gdg-client-public/releases/download/v0.2.2/GDGClient.zip
-- SHA256: `1ab17d2b2e9dc6a4d67f5eaaf990000947bf3f97a07638f545e0780e7bd9ee21`
+- SHA256: `6440cf07914448daf1424ffe13446dec4521316693e1b6202bbab222187576ed`
 
 ## What This Is
 

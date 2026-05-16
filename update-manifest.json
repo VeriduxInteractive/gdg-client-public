@@ -2,6 +2,6 @@
   "version": "0.2.2",
   "required": false,
   "downloadUrl": "https://github.com/VeriduxInteractive/gdg-client-public/releases/download/v0.2.2/GDGClient.zip",
-  "sha256": "1ab17d2b2e9dc6a4d67f5eaaf990000947bf3f97a07638f545e0780e7bd9ee21",
-  "notes": "Adds a client-side workstation guard for legacy forge queue data and moves future update prompts onto the global UI loop."
+  "sha256": "6440cf07914448daf1424ffe13446dec4521316693e1b6202bbab222187576ed",
+  "notes": "Recommended Golden Days client update with improved forge compatibility and more reliable update prompts."
 }
