@@ -2,6 +2,6 @@
   "version": "0.2.2",
   "required": false,
   "downloadUrl": "https://github.com/VeriduxInteractive/gdg-client-public/releases/download/v0.2.2/GDGClient.zip",
-  "sha256": "5511c4bed462e3f234569db470af6a5df47460dae1ef3e2d99ce70a87325cf31",
-  "notes": "Adds a client-side workstation guard for legacy forge queue data while preserving the one-folder GDGClient install."
+  "sha256": "1ab17d2b2e9dc6a4d67f5eaaf990000947bf3f97a07638f545e0780e7bd9ee21",
+  "notes": "Adds a client-side workstation guard for legacy forge queue data and moves future update prompts onto the global UI loop."
 }
