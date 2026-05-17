@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "required": false,
-  "downloadUrl": "https://github.com/VeriduxInteractive/gdg-client-public/releases/download/v0.2.2/GDGClient.zip",
-  "sha256": "6440cf07914448daf1424ffe13446dec4521316693e1b6202bbab222187576ed",
-  "notes": "Recommended Golden Days client update with improved forge compatibility and more reliable update prompts."
+  "downloadUrl": "https://github.com/VeriduxInteractive/gdg-client-public/releases/download/v0.2.3/GDGClient.zip",
+  "sha256": "db7ac9719fb407f28ffcedf7fc1b755c355bd29a6ab47a1e27006e41255aa35f",
+  "notes": "Recommended Golden Days client hotfix that corrects HUD vital stat values for players whose health, food, or water display in centi-units."
 }
