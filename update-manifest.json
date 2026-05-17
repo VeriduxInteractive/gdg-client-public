@@ -1,7 +1,8 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "required": false,
-  "downloadUrl": "https://github.com/VeriduxInteractive/gdg-client-public/releases/download/v0.2.3/GDGClient.zip",
-  "sha256": "db7ac9719fb407f28ffcedf7fc1b755c355bd29a6ab47a1e27006e41255aa35f",
-  "notes": "Recommended Golden Days client hotfix that corrects HUD vital stat values for players whose health, food, or water display in centi-units."
+  "downloadUrl": "https://github.com/VeriduxInteractive/gdg-client-public/releases/download/v0.2.4/GDGClient.zip",
+  "releasePageUrl": "https://github.com/VeriduxInteractive/gdg-client-public/releases/tag/v0.2.4",
+  "sha256": "df73f1e33d2f42617de4925b01e95d2d0c7aa7998d0045816bac9f0dd6d0f4b9",
+  "notes": "Recommended Golden Days client update that adds the automatic installer for future GDGClient updates."
 }
